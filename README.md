@@ -21,3 +21,8 @@ Para criação do app é preciso levar em consideração as seguintes funcionali
   - Opção para caso seja necessário excluir algum vídeo adicionado
   - Ao adicionar novo vídeo deve ser possível ver um preview de como ficará depois de adicionado
   - Ao clicar em um vídeo a pessoa usuária deve ser direcionada para a reprodução deste no YouTube
+
+## Protótipos de tela
+
+![](assets/layouts/Home.png) 
+![](assets/layouts/CadastroDeVideo.png) ![](assets/layouts/EdicaoDeVideo.png)
