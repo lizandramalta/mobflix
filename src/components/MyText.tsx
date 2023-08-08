@@ -13,15 +13,18 @@ export default function MyText({textWeight = 'regular', style, children}: MyText
 const styles = StyleSheet.create({
   regular: {
     fontFamily: 'RobotoRegular',
-    fontWeight: 'normal'
+    fontWeight: 'normal',
+    color: "#fff",
   },
   medium: {
     fontFamily: 'RobotoMedium',
-    fontWeight: 'normal'
+    fontWeight: 'normal',
+    color: "#fff",
   },
   bold: {
     fontFamily: 'RobotoBold',
-    fontWeight: 'normal'
+    fontWeight: 'normal',
+    color: "#fff",
   }
 })
 
